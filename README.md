@@ -7,6 +7,7 @@ Steps to reproduce:
 ```
 $ git clone https://github.com/mhartl/will_paginate_app.git
 $ cd will_paginate_app
+$ bundle install
 $ rails db:migrate
 $ rails db:seed
 $ rails console

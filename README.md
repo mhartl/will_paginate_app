@@ -1,6 +1,6 @@
 # will_paginate app
 
-This is a minimalist app to reproduce an issue when using `will_paginate` in a Rails console, namely, an apparent hard cap of returning 11 entries at a time.
+This is a minimalist app to reproduce an [issue](https://github.com/mislav/will_paginate/issues/599) when using `will_paginate` in a Rails console, namely, an apparent hard cap of returning 11 entries at a time.
 
 Steps to reproduce:
 
